@@ -1,0 +1,8 @@
+fastapi>=0.95
+uvicorn[standard]>=0.22
+ccxt>=3.0
+httpx>=0.25
+pytest>=7.3
+pytest-asyncio>=0.21
+cachetools>=5.3
+python-dotenv>=1.0
